@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=Minho's%20Githhub&fontSize=70)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Minho's%20Githhub&fontSize=70)  
 
 # Hi there 👋  
 
@@ -7,9 +7,9 @@
 
 
 <br>
-<center>
+<div align="center">
 
-## <img src="https://img.icons8.com/?size=512&id=16368&format=png" height="20"> Tech Stack <img src="https://img.icons8.com/?size=512&id=16368&format=png" height="20">
+# <img src="https://img.icons8.com/?size=512&id=16368&format=png" height="20"> Tech Stack <img src="https://img.icons8.com/?size=512&id=16368&format=png" height="20">
 
 
 
@@ -28,8 +28,8 @@
 
 <br>
 
-## <img src="https://img.icons8.com/?size=512&id=VUt5dWfcfFzt&format=png" height="23"> Activity <img src="https://img.icons8.com/?size=512&id=VUt5dWfcfFzt&format=png" height="23">
-</center>
+# <img src="https://img.icons8.com/?size=512&id=VUt5dWfcfFzt&format=png" height="23"> Activity <img src="https://img.icons8.com/?size=512&id=VUt5dWfcfFzt&format=png" height="23">
+</div>
 
 - 서울특별시 기능경기대회 금상
 - 전국기능경기대회 동메달
@@ -37,11 +37,11 @@
 - 중소기업 이해 해외 연수
 
 
-<center>
+<div align="center">
 
 
-## <img src="https://img.icons8.com/?size=512&id=102559&format=png" height="17"> Licenses <img src="https://img.icons8.com/?size=512&id=102559&format=png" height="17">
-</center>
+# <img src="https://img.icons8.com/?size=512&id=102559&format=png" height="17"> Licenses <img src="https://img.icons8.com/?size=512&id=102559&format=png" height="17">
+</div>
 
 - 정보처리산업기사
 - 정보기기운용기능사
@@ -53,14 +53,14 @@
 
 
 
-<center>
+<div align="center">
 
-## <img src="https://img.icons8.com/?size=512&id=13551&format=png" height="21"> Git Stats <img src="https://img.icons8.com/?size=512&id=13551&format=png" height="21">
+# <img src="https://img.icons8.com/?size=512&id=13551&format=png" height="21"> Git Stats <img src="https://img.icons8.com/?size=512&id=13551&format=png" height="21">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beety4&show_icons=true&theme=radical)
 
-</center>
+</div>
 
 <br>
 
