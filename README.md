@@ -75,8 +75,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beety4&show_icons=true&theme=radical)
 
-</div>
 
+
+# <img src="https://img.icons8.com/?size=512&id=13551&format=png" height="21"> Git Stats <img src="https://img.icons8.com/?size=512&id=13551&format=png" height="21">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beety4)](https://solved.ac/beety4/)
+
+</div>
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
